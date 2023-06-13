@@ -1,0 +1,15 @@
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\bin\Debug\net6.0\GraphDataStructure.exe
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\bin\Debug\net6.0\GraphDataStructure.deps.json
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\bin\Debug\net6.0\GraphDataStructure.runtimeconfig.json
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\bin\Debug\net6.0\GraphDataStructure.dll
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\bin\Debug\net6.0\GraphDataStructure.pdb
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\GraphDataStructure.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\GraphDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\GraphDataStructure.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\GraphDataStructure.AssemblyInfo.cs
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\GraphDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\GraphDataStructure.dll
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\refint\GraphDataStructure.dll
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\GraphDataStructure.pdb
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\GraphDataStructure.genruntimeconfig.cache
+C:\Users\barte\Desktop\projects\c_sharp_alg\Graph\GraphDataStructure\GraphDataStructure\obj\Debug\net6.0\ref\GraphDataStructure.dll
